@@ -1,4 +1,4 @@
-<h1>ExpNo 5 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1>
+<h1>ExpNo 6 : Implement Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1>
 
 <h3>Name: SARFARAZ I</h3>
 <h3>Register Number: 212225230252</h3>
